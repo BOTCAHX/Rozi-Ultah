@@ -1,6 +1,7 @@
 # Rozi-Ultah
 
 ````
+bash
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
@@ -9,4 +10,4 @@
 }
 
 
-```|`|
+```
